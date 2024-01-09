@@ -1,0 +1,19 @@
+{
+    "name": "jessica/pokedex",
+    "description": "Small pokedex",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jessica",
+            "email": "jessica.troilo25@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "symfony/symfony": "^7.0",
+        "symfony/var-dumper": "*"
+    },
+    "autoload": {
+        "psr-4": {"Pokedex\\": "app/"}
+    }
+}
