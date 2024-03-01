@@ -8,5 +8,8 @@ Filtre par type
 
 ![pokemonstats](https://github.com/jessicatroilo/pokedex/assets/148094229/1318af61-10b6-49b5-b730-8944e1f22089)
 
+![image](https://github.com/jessicatroilo/pokedex/assets/148094229/035625ad-1455-4ca0-9111-ca52735e5254)
+
+
 
 
